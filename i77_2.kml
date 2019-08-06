@@ -4,7 +4,7 @@
     <name>Interstate 77</name>
     <Style id="yellowLine">
       <LineStyle>
-        <color>ffc700</color>
+        <color>ffffc700</color>
         <width>4</width>
       </LineStyle>
     </Style>
