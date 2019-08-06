@@ -53,7 +53,7 @@
     </Style>
     <Style id="yellowLine">
       <LineStyle>
-        <color>ffc700ff</color>
+        <color>ffc700</color>
         <width>4</width>
       </LineStyle>
     </Style>
